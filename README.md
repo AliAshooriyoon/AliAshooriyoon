@@ -7,10 +7,10 @@ I'm Ali and I'm 17 years old. I work as a front-end developer.
 I'm a Frontend developer and I'm a German Studen🇩🇪🇩🇪 .
 
 
- I love Musics and Movies!
+ I love Musics 🎵 and Movies! 🎥
 
  
-Grumpy, committed, polite, introverted but social
+Grumpy, committed, polite, introverted but social😶
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React js, Electron js, Linux
