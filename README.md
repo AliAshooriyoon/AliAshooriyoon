@@ -4,7 +4,7 @@ I'm Ali and I'm 17 years old. I work as a front-end developer.
 
 You can easily find me in social media!
 
-![image](https://t.me/ali_ash1386)
+![image]([https://github.com/user-attachments/assets/88ce5e48-0a53-4849-8cd4-1f1ff0e9dadf](https://t.me/ali_ash1386))
 
 
 Good luck🌱🌱
