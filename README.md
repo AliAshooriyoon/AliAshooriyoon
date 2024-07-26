@@ -1,10 +1,10 @@
-
 # Ali Ashooriyoon
 
-Ich bin Ali und bin 17 jahre alt.Ich arbeite als FrontEnd Entwickler.
-Sie Können mich so einfach in Szialen Medien finden!
+I'm Ali and I'm 17 years old. I work as a front-end developer.
 
-Viel Glück❤❤
+You can easily find me in social media!
+
+Good luck🌱🌱
 
 <!--
 **AliAshooriyoon/AliAshooriyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
