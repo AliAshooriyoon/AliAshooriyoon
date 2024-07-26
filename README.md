@@ -1,10 +1,22 @@
+
 # Ali Ashooriyoon
 
 I'm Ali and I'm 17 years old. I work as a front-end developer.
 
-You can easily find me in social media!
+## 🚀 About Me
+I'm a Frontend developer and I'm a German Studen🇩🇪🇩🇪
 
-![image]([https://github.com/user-attachments/assets/88ce5e48-0a53-4849-8cd4-1f1ff0e9dadf](https://t.me/ali_ash1386))
+
+## 🛠 Skills
+Javascript, HTML, CSS, React js, Electron js, Linux
+
+
+
+## 🔗 Links
+
+[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ali_ash1386)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aliash1386)
+
 
 
 Good luck🌱🌱
