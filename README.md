@@ -17,7 +17,8 @@ Javascript, HTML, CSS, React js, Electron js, Linux
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ali_ash1386)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aliash1386)
 
-
+My Email adresse: 
+aliashooriyoon1@proton.me
 
 Good luck🌱🌱
 
