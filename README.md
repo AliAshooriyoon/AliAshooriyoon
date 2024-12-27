@@ -77,7 +77,8 @@ Grumpy, committed, polite, introverted but social😶
 
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
 
-#### 🌐 My Soail Networks
+#### 🌐 My social Networks
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aliashooriyoon/)
 
