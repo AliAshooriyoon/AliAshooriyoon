@@ -92,8 +92,6 @@ Grumpy, committed, polite, introverted but social😶
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aliash1386)
 
-My Email adresse: 
-aliashooriyoon1@proton.me
 
 Good luck🌱🌱
 
