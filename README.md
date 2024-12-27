@@ -1,13 +1,13 @@
 
 # Ali Ashooriyoon
 
-I'm Ali, and I'm 17 years old. I work as a front-end developer.
+I'm Ali, and I'm 17 years oldHi, a web developer skilled in React, Next.js, and Linux. I love building efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
+
+
 
 
 ## 🚀 About Me
-I'm a Frontend developer, and I'm a German Student🇩🇪🇩🇪.
-
-I love music 🎵 and Movies! 🎥
+I'm a German Student🇩🇪🇩🇪 and I love music 🎵 and Movies! 🎥
 
 Grumpy, committed, polite, introverted but social😶
 
