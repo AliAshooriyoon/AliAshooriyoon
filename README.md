@@ -1,7 +1,7 @@
 
 # Ali Ashooriyoon
 
-I'm Ali, and I'm 17 years oldHi, a web developer skilled in React, Next.js, and Linux. I love building efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
+I'm Ali, and I'm 17 years old, a web developer skilled in React, Next.js, and Linux. I love building efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
 
 
 
