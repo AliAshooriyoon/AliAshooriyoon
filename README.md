@@ -6,12 +6,12 @@ I'm Ali, a web developer skilled in React, Next.js, and Linux. I love building e
 
 
 
-## 🚀 About Me
+## ⚡️ More About Me
 I'm a German Student🇩🇪🇩🇪 and I love music 🎵 and Movies! 🎥
 
 Grumpy, committed, polite, introverted but social😶
 
-# ⚡️ More About Me
+
 
 ## 🛠 My Skills
 
