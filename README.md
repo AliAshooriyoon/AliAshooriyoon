@@ -1,7 +1,9 @@
 
 # Ali Ashouriyoun
 
-I'm Ali, a web developer skilled in React, Next.js, and Linux. I love building efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
+I'm Ali, a web developer with a strong focus on React, Next.js, and Linux. Currently, I'm expanding my skills into DevOps to bridge development and operations, optimizing workflows and system reliability. I enjoy building efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
+
+
 
 
 
