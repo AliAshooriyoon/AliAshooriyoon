@@ -1,8 +1,7 @@
 
 # Ali Ashouriyoun
 
-I'm Ali, a web developer with a strong focus on React, Next.js, and Linux. I'm currently diving deeper into Full-Stack development to build more complete, scalable applications—from frontend to backend. I enjoy crafting efficient solutions, exploring open-source projects, and turning ideas into impactful digital experiences.
-
+I'm Ali, a web developer with a strong focus on React, Next.js, and Linux. I'm currently diving deeper into Full-Stack development. I enjoy crafting efficient solutions, mabye exploring open-source projects.
 
 
 
@@ -33,7 +32,7 @@ Grumpy, committed, polite, introverted but social😶
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/aliash/)
 
 
-Good luck🌱🌱
+Good luck🌱🌱 and Thanks for watching my GitHub page
 
 <!--
 **AliAshooriyoon/AliAshooriyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
