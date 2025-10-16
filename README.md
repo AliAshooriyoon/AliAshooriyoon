@@ -9,7 +9,7 @@ I'm Ali, a web developer with a strong focus on React, Next.js, and Linux. I'm c
 
 
 ## ⚡️ More About Me
-I'm a German Student🇩🇪, Linux lover🐧, music 🎵 and Movies! 🎥
+I'm a German 🇩🇪, Linux 🐧, music 🎵 and Movies 🎥 lover! 
 
 Grumpy, committed, polite, introverted but social😶
 
