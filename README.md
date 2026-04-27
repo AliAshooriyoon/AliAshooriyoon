@@ -6,7 +6,7 @@ I'm Ali, a full-stack developer with a strong focus on React, Next.js, golang an
 
 
 
-
+ 
 
 ## ⚡️ More About Me
 I'm a German 🇩🇪, Linux 🐧, music 🎵 and Movies 🎥 lover! 
