@@ -1,7 +1,7 @@
 
 # Ali Ashouriyoun
 
-I'm Ali, a web developer with a strong focus on React, Next.js, and Linux. I'm currently diving deeper into Full-Stack development. I enjoy crafting efficient solutions, mabye exploring open-source projects.
+I'm Ali, a full-stack developer with a strong focus on React, Next.js, golang and Linux. I'm currently diving deeper into Full-Stack development. I enjoy crafting efficient solutions, mabye exploring open-source projects.
 
 
 
